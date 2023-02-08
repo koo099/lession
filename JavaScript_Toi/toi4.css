@@ -1,0 +1,10 @@
+#box {
+  width: 200px;
+  height: 200px;
+  line-height: 200px;
+  border-radius: 50%;
+  background-color: rosybrown;
+  text-align: center;
+  cursor: pointer;
+  user-select: none;
+}

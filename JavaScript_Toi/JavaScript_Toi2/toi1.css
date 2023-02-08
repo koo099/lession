@@ -1,0 +1,16 @@
+#shopping {
+  float: left;
+  cursor: pointer;
+}
+#boxing {
+  float: left;
+  cursor: pointer;
+}
+#fishing {
+  float: left;
+  cursor: pointer;
+}
+img {
+  max-width: 300px;
+  height: 300px;
+}
